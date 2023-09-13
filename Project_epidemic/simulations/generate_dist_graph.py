@@ -3,8 +3,8 @@ import matplotlib.pyplot as plt
 from epidemic.sir_model import SIRModel
 
 # Parameters
-beta = 0.3  # Transmission rate
-sigma = 0.1  # Recovery rate
+beta = 1  # Transmission rate
+sigma = 10  # Recovery rate
 initial_infected = 10
 population = 1000
 days = 5

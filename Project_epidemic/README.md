@@ -1,3 +1,4 @@
+This work is part of interview process at Imerial College solely. 
 # SIR Model Simulation with Binomial Infection
 
 This Python project simulates the spread of an infectious disease using the SIR (Susceptible-Infectious-Recovered) model. This model consider binomial distribution for infection. The project is organized into modules for the SIR model, visualization, interfaces, and simulations.
@@ -25,4 +26,4 @@ You can install these dependencies using `pip` with the provided `requirements.t
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/hibadoudar/sir-model-binomial-infection.git
+   git clone https://github.com/HibaDoudar/Model1.git
